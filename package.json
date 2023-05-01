@@ -1,1 +1,6 @@
-{}
+{
+  "type": "module",
+  "devDependencies": {
+    "lit": "^2.7.3"
+  }
+}
